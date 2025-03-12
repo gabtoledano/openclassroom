@@ -1,0 +1,11 @@
+Pour ce cours j'ai dupliquer toute la section La mission de l'asso pour faire la partie :
+Les membres fondateurs
+
+Etapes faites >
+J'ai rajouter la class="sectionLinearGradientBackground whiteContentSection" dans la balise <section> pour le dégrader et le texte blanc
+J'ai rajouter la class="textCenter" dans les balise <article>, dans ces memes balise j'ai aujouter la balise <img>
+J'ai changé la couleur de fond ou ce trouve les bouton
+J'ai modifié le bouton en rajoutant les class="button buttonMainColor buttonRounded buttonHighlight"
+Changement de href, et le texte affiché sur le bouton
+J'ai dupliqué pour faire le deuxieme boutton en changant la couleur Main par Second dans la "class"
+Modification de la class="directionRow" dans la balise <div> par class="directionColumn"
